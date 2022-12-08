@@ -26,6 +26,7 @@ button:hover {
   color: var(--close-btn-color);
 }
 
-#close-modal-btn:active {
-  transform: scale(1.03);
+#close-modal-btn:hover {
+  border-radius: 50%;
+  opacity: 0.5;
 }
