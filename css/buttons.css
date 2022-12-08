@@ -27,6 +27,5 @@ button:hover {
 }
 
 #close-modal-btn:hover {
-  border-radius: 50%;
   opacity: 0.5;
 }
