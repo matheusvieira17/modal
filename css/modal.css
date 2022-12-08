@@ -10,7 +10,7 @@
 .fade {
   width: 100%;
   height: 100%;
-  background-color: #0000006c;
+  background-color: var(--fade-color);
 
   position: fixed;
   top: 0;
@@ -25,7 +25,7 @@
   width: 50rem;
   max-width: 90%;
   border-radius: 0.5rem;
-  box-shadow: 0.5px 1px 3px 1px rgba(0, 0, 0, 0.351);
+  box-shadow: var(--shadow);
   transition: 0.5s;
 
   position: fixed;

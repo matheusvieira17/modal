@@ -8,6 +8,9 @@
   --bckg-color: #e1e1e1;
   --open-btn-color: #2d5e9d;
   --close-btn-color: #cf0f0f;
+  --special-color-links: #1313d8;
+  --fade-color: #0000006c;
+  --shadow: 0.5px 1px 3px 1px rgba(0, 0, 0, 0.351);
 }
 
 * {
