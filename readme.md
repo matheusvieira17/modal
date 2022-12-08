@@ -1,13 +1,13 @@
-#### Sobre o projeto
+## Sobre o projeto
 Criação de um modal pop up com HTML5, CSS3 e Java Script
 
-#### Conhecimentos utilizados
-##### HTML
+## Conhecimentos utilizados
+### HTML
 - Versão semântica da linguagem
 - Wrapper tags
 - Uso de ícones
 
-##### CSS
+### CSS
 - Separação dos arquivos em várias folhas para melhor manutenção de código
 - Variáveis
 - Posicionamento de elementos com a propriedade _position_
@@ -15,7 +15,7 @@ Criação de um modal pop up com HTML5, CSS3 e Java Script
 - Transições
 - Pseudo classes
 
-##### Java Script 
+### Java Script 
 - Manipulação do DOM (Document Object Model)
 - Manipulação da lista de classes dos elementos
 - Uso de arrays e seus métodos (_for each_)
